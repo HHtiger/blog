@@ -4,3 +4,4 @@
 * [前端性能优化小记](/2020/20200528.md)
 * [vm + ubuntu20.04 + docker + CN](/2020/20200614.md)
 * [serverless生态、边缘计算 及 微服务runtime 简记](/2021/20210722.md)
+* [dapr minikube PROXY 本地最小化启动 ](/2021/20210729.md)
